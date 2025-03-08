@@ -1,0 +1,32 @@
+https://chatgpt.com/share/67c70cf4-2f20-8012-be4c-355aff0a66ed
+
+<div>This is a block element</div>
+<p>This is a paragraph (block element)</p>
+<h1>This is a heading (block element)</h1>
+<section>This is a section (block element)</section>
+------------------------------------------------------
+
+<span>This is an inline element</span>
+<a href="#">This is a link (inline element)</a>
+<strong>This is bold text (inline element)</strong>
+<em>This is italic text (inline element)</em>
+-----------------------------------------------------
+<style>
+  .box {
+    display: inline-block;
+    width: 100px;
+    height: 50px;
+    background-color: lightblue;
+    text-align: center;
+    line-height: 50px;
+    margin: 5px;
+  }
+</style>
+
+<div class="box">Box 1</div>
+<div class="box">Box 2</div>
+<div class="box">Box 3</div>
+
+
+-----------------------------------------------
+
